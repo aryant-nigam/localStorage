@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897288114809",
+    "project_id": "localstoragetest-f5af0",
+    "storage_bucket": "localstoragetest-f5af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897288114809:android:748be24b272f5fec3c3aa8",
+        "android_client_info": {
+          "package_name": "com.example.localstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897288114809-6u8jii2u8k1mb7vk29hhgicoevfv5279.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNm8Zpl4cjbUOnVz13uxTX_ceH8HRzbNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897288114809-6u8jii2u8k1mb7vk29hhgicoevfv5279.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
